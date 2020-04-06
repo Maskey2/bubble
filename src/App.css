@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+body,p{
+  font-family: 'Comic Neue', cursive;
+}
+
+img {
+  height: auto;
+ max-width: 1600px;
+}
