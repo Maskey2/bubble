@@ -11,7 +11,7 @@ export default function () {
             <Container maxWidth="md" component="main" >
                 <Grid container spacing={4} alignContent="center" justify="center" alignItems="center">
                     <Grid item md={5} xs={12}>
-                        <img src={tin} alt="" style={{ maxWidth: '380px', border: '7px solid black' }} />
+                        <img src={tin} alt="" style={{ maxWidth: '330px', border: '7px solid black' }} />
                     </Grid>
                     <Grid item md={7} xs={12}>
                         <Typography style={{ margin: '15px', fontSize: '20px', fontFamily: 'Comic Neue' }}>
